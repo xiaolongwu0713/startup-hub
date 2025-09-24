@@ -1,0 +1,13 @@
+<!-- Profile Edit Page Template -->
+<!-- TODO: Implement profile edit form UI -->
+
+<view class="profile-edit-container">
+  <!-- TODO: Add profile edit form -->
+  <!-- TODO: Add nickname input (required) -->
+  <!-- TODO: Add city input (optional) -->
+  <!-- TODO: Add bio textarea (optional) -->
+  <!-- TODO: Add skills selection (max 5) -->
+  <!-- TODO: Add save/cancel buttons -->
+  <!-- TODO: Add validation error display -->
+  <!-- TODO: Add loading states -->
+</view>

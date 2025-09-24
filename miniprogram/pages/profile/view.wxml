@@ -1,0 +1,12 @@
+<!-- Profile View Page Template -->
+<!-- TODO: Implement profile display UI -->
+
+<view class="profile-view-container">
+  <!-- TODO: Add profile header with avatar and basic info -->
+  <!-- TODO: Add profile details (city, bio, skills) -->
+  <!-- TODO: Add counters (ideas, milestones) -->
+  <!-- TODO: Add edit button (for own profile) -->
+  <!-- TODO: Add share button -->
+  <!-- TODO: Add loading state -->
+  <!-- TODO: Add error state -->
+</view>

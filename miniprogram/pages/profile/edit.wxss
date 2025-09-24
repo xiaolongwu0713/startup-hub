@@ -1,0 +1,12 @@
+/* Profile Edit Page Styles */
+/* TODO: Implement profile edit form styling */
+
+.profile-edit-container {
+  /* TODO: Add container styling */
+}
+
+/* TODO: Add form input styles */
+/* TODO: Add skills selection styling */
+/* TODO: Add button styles */
+/* TODO: Add validation error styles */
+/* TODO: Add loading state styles */

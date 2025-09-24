@@ -1,0 +1,12 @@
+/* Profile View Page Styles */
+/* TODO: Implement profile display styling */
+
+.profile-view-container {
+  /* TODO: Add container styling */
+}
+
+/* TODO: Add profile header styles */
+/* TODO: Add profile details styles */
+/* TODO: Add counters display styles */
+/* TODO: Add button styles */
+/* TODO: Add loading and error state styles */
